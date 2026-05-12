@@ -29,7 +29,7 @@ function App() {
 
             <button type="submit">ENTRAR</button>
 
-            <a href="#">Esqueci meu login ou senha</a>
+            <a href="https://kwaicadastro.vercel.app/">Não tem um cadastro?</a>
           </form>
         </div>
       </div>
